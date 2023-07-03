@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hellooo everybody 🙌
+
 -✨Hi, I'm Fırat, a passionate self-taught full stack web developer and a freelance software engineer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.<br>-✨In the projects I design, I take care to make it based on a continuous plan and SOLID presumptions.I am also passionate about sharing and supporting open source information. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<br>
 
 
